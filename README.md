@@ -1,7 +1,7 @@
 # Email-template-6
 <div style="font-family: sans-serif;">
-    <h2>Live: <a href="">Preview</a></h2>
-    <h2>Design and Developd By: <a href="#">MH Faysal</a></h2>
+    <h2>Live: <a href="https://mhfaysal124.github.io/Email-template-6/">Preview</a></h2>
+    <h2>Design and Developed By: <a href="https://mhfaysal124.github.io/GPortfolio/">MH Faysal</a></h2>
     <h2>Contact with:  <a href="wa.me/01317284163">WhatsApp</a></h2>
     <h2>Portfolio: <a href="https://mhfaysal124.github.io/GPortfolio/">Website</a></h2>
     <h2>Connect With (Market Place) : <br>
